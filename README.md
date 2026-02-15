@@ -10,4 +10,4 @@ while b < 200:
     right (b)
     forward (b * 3)
     b += 1
-done() # Mantém a janela aberta
+
